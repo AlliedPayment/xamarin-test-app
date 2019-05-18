@@ -1,0 +1,16 @@
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/Test.exe
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/Test.pdb
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/Cirrious.FluentLayouts.Touch.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/actool/_PartialAppManifest.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/coremlc/_PartialAppManifest.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/optimized/
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/Test.csproj.CopyComplete
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/Test.exe
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/Test.pdb
+/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/Test.csprojAssemblyReference.cache

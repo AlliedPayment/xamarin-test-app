@@ -1,0 +1,16 @@
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/Test.csprojAssemblyReference.cache
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Test.exe
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Test.pdb
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Cirrious.FluentLayouts.Touch.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/Test.csproj.CopyComplete
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/Test.exe
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/Test.pdb
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/actool/_PartialAppManifest.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/coremlc/_PartialAppManifest.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/wickdninja/Projects/Test/Test/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.2/optimized/

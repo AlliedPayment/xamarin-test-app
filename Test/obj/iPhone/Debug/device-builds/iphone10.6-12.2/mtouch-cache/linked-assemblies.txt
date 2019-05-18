@@ -1,0 +1,7 @@
+RemoveDynamicRegistrar:true
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Test.exe
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/mscorlib.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/System.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/System.Core.dll
+/Users/wickdninja/Projects/Test/Test/bin/iPhone/Debug/device-builds/iphone10.6-12.2/Test.app:/Users/wickdninja/Projects/Test/Test/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Cirrious.FluentLayouts.Touch.dll

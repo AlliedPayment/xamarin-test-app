@@ -1,0 +1,8 @@
+/Users/wickdninja/Projects/Test/Test/bin/iPhoneSimulator/Debug/Test.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.6.0.25/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/wickdninja/.nuget/packages/cirrious.fluentlayout/2.9.0/lib/Xamarin.iOS10/Cirrious.FluentLayouts.Touch.dll
